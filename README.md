@@ -89,4 +89,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Certified Data Engineer with 9+ years of experience in Big Data, specializing in designing and implementing data warehouse and lakehouse architectures using Snowflake, Databricks, and Google Cloud Platform (GCP). Proficient in SQL and Python, with expertise in DBT and Apache Airflow for orchestrating ETL/ELT workflows, improving data quality, and enabling data-driven business outcomes.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rainerbangi)
