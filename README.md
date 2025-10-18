@@ -15,6 +15,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 ## 📖 Project Overview
+---
 
 This project involves:
 
