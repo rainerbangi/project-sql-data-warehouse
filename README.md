@@ -15,7 +15,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 ## 📖 Project Overview
----
 
 This project involves:
 
@@ -86,4 +85,5 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+Certified Data Engineer with 9+ years of experience in Big Data, specializing in designing and implementing data warehouse and lakehouse architecture using Snowflake, Databricks, and Google Cloud Platform (GCP). Proficient in SQL and Python, with expertise in DBT and Apache Airflow for orchestrating ETL/ELT workflows, improving data quality, and enabling data-driven business outcomes.
 
